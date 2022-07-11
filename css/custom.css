@@ -1,0 +1,12 @@
+.row{
+    border-style: dashed;
+    border-color: tomato;
+}
+.container, container-fluid{
+    border-style: dotted;
+    border-color: black;
+}
+.col{
+    border-style: groove;
+    border-color: pink;
+}
